@@ -39,3 +39,6 @@ MySQL database connected through JDBC.
 Developer
 
 Yaashwanth V
+
+#project video
+https://drive.google.com/file/d/18IyZ-n0p2zjHcirrMtyOpute3ESlOgR4/view?usp=drive_link
